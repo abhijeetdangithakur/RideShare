@@ -57,7 +57,7 @@ color:blue;
 
 }
 .searchVechile{
-    height:100vh;
+    height:80vh;
     width: 100%;
     background-image:linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.5)),url("Rideshare background.jpg");
     background-size:100% auto;
@@ -130,12 +130,12 @@ main div select{
 .searchBtn{
     position: absolute;
     left: 45%;
-    top: 45%;
+    top: 50%;
 }
 .description{
 position:absolute;
 left: 10%;
-top: 60%;
+top: 65%;
 color: rgb(248, 254, 54);
 line-height: 70%;
 }
